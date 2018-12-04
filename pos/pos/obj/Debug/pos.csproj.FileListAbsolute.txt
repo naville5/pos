@@ -1,0 +1,15 @@
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\bin\Debug\pos.exe.config
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\bin\Debug\pos.exe
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\bin\Debug\pos.pdb
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\bin\Debug\MaterialSkin.dll
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\obj\Debug\pos.dashboard.resources
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\obj\Debug\pos.Properties.Resources.resources
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\obj\Debug\pos.csproj.GenerateResource.Cache
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\obj\Debug\pos.exe
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\obj\Debug\pos.pdb
+c:\users\muhammad nawal khan\documents\visual studio 2015\Projects\pos\pos\obj\Debug\pos.login.resources
+C:\Users\Muhammad Nawal Khan\Documents\Visual Studio 2015\Projects\pos\pos\obj\Debug\pos.openingPage.resources
+C:\Users\Muhammad Nawal Khan\Documents\Visual Studio 2015\Projects\pos\pos\bin\Debug\MySql.Data.dll
+C:\Users\Muhammad Nawal Khan\Documents\Visual Studio 2015\Projects\pos\pos\bin\Debug\MySql.Data.xml
+C:\Users\Muhammad Nawal Khan\documents\visual studio 2015\Projects\pos\pos\obj\Debug\pos.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Nawal Khan\documents\visual studio 2015\Projects\pos\pos\obj\Debug\pos.barcode.resources
